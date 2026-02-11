@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# OS generated
+Thumbs.db
+Desktop.ini
+
+# RiotSwitcherMinimal specific
+# We might want to keep `icon.ico` but ignore user profiles if stored locally in dev (though they are in AppData, so safe)
+FodyWeavers.xsd
